@@ -43,6 +43,3 @@ To run the analysis in this project, clone the repository and execute the Jupyte
 - Jupyter Notebook
 - Libraries: pandas, numpy, scipy, matplotlib, seaborn
 
-## Thank You
-
-Thynk Unlimited - 2024
